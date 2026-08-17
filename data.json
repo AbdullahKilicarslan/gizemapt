@@ -76,9 +76,33 @@
         {
           "id": 3,
           "type": "expense",
-          "category": "bakinim",
+          "category": "bakim",
           "name": "Dış kapı kilit tamir",
           "amount": 1000,
+          "date": "13.08"
+        },
+        {
+          "id": 4,
+          "type": "expense",
+          "category": "fatura",
+          "name":"temmuz su",
+          "amount": 441,
+          "date": "13.08"
+        },
+        {
+          "id": 5,
+          "type": "expense",
+          "category": "fatura",
+          "name": "Ağustos su",
+          "amount": 427,
+          "date": "13.08"
+        },
+        {
+          "id": 6,
+          "type": "expense",
+          "category": "fatura",
+          "name":"Ağustos elektrik",
+          "amount": 75,
           "date": "13.08"
         }
       ],
