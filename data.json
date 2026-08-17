@@ -76,7 +76,7 @@
         {
           "id": 3,
           "type": "expense",
-          "category": "tamir",
+          "category": "bakinim",
           "name": "Dış kapı kilit tamir",
           "amount": 1000,
           "date": "13.08"
