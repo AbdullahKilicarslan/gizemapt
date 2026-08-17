@@ -951,44 +951,55 @@
         padding: 0 12px;
         gap: 6px;
       }
+
       header div[style*="font-size:11px"] {
         display: none !important;
       }
+
       .logo {
         font-size: 18px;
       }
+
       .header-kasa {
         margin-left: 4px;
         padding: 4px 8px;
         font-size: 11px;
         gap: 2px;
       }
+
       .header-kasa .lbl {
         display: none;
       }
+
       .header-kasa::before {
         content: "Bakiye:";
         color: var(--text3);
         font-weight: 500;
         font-size: 10px;
       }
+
       .month-nav {
         padding: 3px 8px;
         gap: 2px;
       }
+
       .month-nav button {
         font-size: 14px;
       }
+
       #monthLabel {
         min-width: 95px;
         font-size: 13px;
       }
+
       .year-badge {
         display: none;
       }
+
       .apt-grid {
         grid-template-columns: repeat(3, 1fr);
       }
+
       .stats-row {
         grid-template-columns: repeat(2, 1fr);
         gap: 6px;
@@ -999,6 +1010,7 @@
       .apt-grid {
         grid-template-columns: repeat(2, 1fr);
       }
+
       .status-btn {
         font-size: 10px;
         padding: 8px 4px;
@@ -1319,8 +1331,7 @@
       [
         { key: 'odenmedi', label: 'Ödenmedi', color: 'var(--red)' },
         { key: 'nakit', label: 'Nakit', color: 'var(--green)' },
-        { key: 'iban', label: 'IBAN', color: 'var(--blue)' },
-        { key: 'yonetici', label: 'Yönetici', color: 'var(--purple)' },
+        { key: 'iban', label: 'IBAN', color: 'var(--blue)' }
       ].forEach(s => {
         const el = document.createElement('div');
         el.className = 'stat-card';
@@ -1339,17 +1350,17 @@
 
         const card = document.createElement('div');
         card.className = 'apt-card' + (apt.isManager ? ' is-manager' : '') + (isSelected ? ' selected' : '');
-        card.onclick = () => { 
-          selectedApt = apt; 
-          renderMiddle(); 
-          renderRight(); 
+        card.onclick = () => {
+          selectedApt = apt;
+          renderMiddle();
+          renderRight();
           if (window.innerWidth <= 900) {
             document.getElementById('rightPanel').scrollIntoView({ behavior: 'smooth' });
           }
         };
 
         card.innerHTML = `
-          ${apt.isManager ? '<span class="mgr-star">⭐</span>' : ''}
+          ${apt.isManager ? '<span class="mgr-star"></span>' : ''}
           <div class="apt-card-num">${apt.id}</div>
           <div class="apt-card-status ${st.cls}">${st.icon} ${st.label}</div>
         `;
