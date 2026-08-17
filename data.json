@@ -66,12 +66,20 @@
           "date": "17.08"
         },
         {
-          "id": 4,
+          "id": 2,
           "type": "expense",
           "category": "temizlik",
           "name": "Bahçe Temizliği",
           "amount": 2000,
           "date": "17.08"
+        }},
+        {
+          "id": 3,
+          "type": "expense",
+          "category": "tamir",
+          "name": "Dış kapı kilit tamir",
+          "amount": 1000,
+          "date": "13.08"
         }
       ],
       "payments": [
