@@ -1,0 +1,1925 @@
+{
+  "apartments": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15,
+      "isManager": true
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    }
+  ],
+  "months": {
+    "2026-8": {
+      "duesAmount": 400,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "expense",
+          "category": "gorevli",
+          "name": "Görevli Ücret",
+          "amount": 5500,
+          "date": "17.08"
+        },
+        {
+          "id": 4,
+          "type": "expense",
+          "category": "temizlik",
+          "name": "Bahçe Temizliği",
+          "amount": 2000,
+          "date": "17.08"
+        }
+      ],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "iban"
+        },
+        {
+          "aptId": 2,
+          "status": "iban"
+        },
+        {
+          "aptId": 3,
+          "status": "iban"
+        },
+        {
+          "aptId": 4,
+          "status": "iban"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "nakit"
+        },
+        {
+          "aptId": 8,
+          "status": "iban"
+        },
+        {
+          "aptId": 9,
+          "status": "nakit"
+        },
+        {
+          "aptId": 10,
+          "status": "iban"
+        },
+        {
+          "aptId": 11,
+          "status": "nakit"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "nakit"
+        },
+        {
+          "aptId": 14,
+          "status": "nakit"
+        },
+        {
+          "aptId": 15,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 16,
+          "status": "nakit"
+        },
+        {
+          "aptId": 17,
+          "status": "iban"
+        }
+      ]
+    },
+    "2026-9": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2026-10": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2026-11": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2026-12": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-1": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-2": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-3": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-4": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-5": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-6": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-7": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-8": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-9": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-10": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-11": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2027-12": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-1": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-2": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-3": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-4": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-5": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-6": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-7": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    },
+    "2028-8": {
+      "duesAmount": 400,
+      "transactions": [],
+      "payments": [
+        {
+          "aptId": 1,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 2,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 3,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 4,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 5,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 6,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 7,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 8,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 9,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 10,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 11,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 12,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 13,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 14,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 15,
+          "status": "yonetici"
+        },
+        {
+          "aptId": 16,
+          "status": "odenmedi"
+        },
+        {
+          "aptId": 17,
+          "status": "odenmedi"
+        }
+      ]
+    }
+  }
+}
