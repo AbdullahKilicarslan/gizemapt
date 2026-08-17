@@ -85,7 +85,7 @@
           "id": 4,
           "type": "expense",
           "category": "fatura",
-          "name":"temmuz su",
+          "name": "temmuz su",
           "amount": 441,
           "date": "13.08"
         },
@@ -101,7 +101,7 @@
           "id": 6,
           "type": "expense",
           "category": "fatura",
-          "name":"Ağustos elektrik",
+          "name": "Ağustos elektrik",
           "amount": 75,
           "date": "13.08"
         }
@@ -129,7 +129,7 @@
         },
         {
           "aptId": 6,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 7,
