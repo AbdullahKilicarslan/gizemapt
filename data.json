@@ -178,24 +178,46 @@
       ]
     },
     "2026-9": {
-      "duesAmount": 400,
-      "transactions": [],
+      "duesAmount": 600,
+      "transactions": [{
+          "id": 7,
+          "type": "expense",
+          "category": "fatura",
+          "name": "Eylül su",
+          "amount": 412,
+          "date": "07.09"
+        },
+        {
+          "id": 8,
+          "type": "expense",
+          "category": "fatura",
+          "name": "Eylül elektrik",
+          "amount": 75,
+          "date": "07.09"
+        }, {
+          "id": 9,
+          "type": "expense",
+          "category": "gorevli",
+          "name": "Görevli Ücret",
+          "amount": 5500,
+          "date": "15.09"
+        }],
       "payments": [
         {
           "aptId": 1,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 2,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 3,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 4,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 5,
@@ -203,39 +225,39 @@
         },
         {
           "aptId": 6,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 7,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 8,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 9,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 10,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 11,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 12,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 13,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 14,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 15,
@@ -243,25 +265,56 @@
         },
         {
           "aptId": 16,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 17,
-          "status": "odenmedi"
+          "status": "iban"
         }
       ]
     },
     "2026-10": {
       "duesAmount": 400,
-      "transactions": [],
+      "transactions": [{
+          "id": 10,
+          "type": "expense",
+          "category": "fatura",
+          "name": "Eylül su",
+          "amount": 405,
+          "date": "18.10"
+        },
+        {
+          "id": 11,
+          "type": "expense",
+          "category": "fatura",
+          "name": "Ekim elektrik",
+          "amount": 80,
+          "date": "18.10"
+        },
+      
+        {
+          "id": 12,
+          "type": "expense",
+          "category": "bakim",
+          "name": "Lögar ve boru tamiri, tesisat bakımı",
+          "amount": 10000,
+          "date": "10.10"
+        } ,{
+          "id": 13,
+          "type": "expense",
+          "category": "gorevli",
+          "name": "Görevli Ücret",
+          "amount": 5500,
+          "date": "15.10"
+        }],
       "payments": [
         {
           "aptId": 1,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 2,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 3,
@@ -269,7 +322,7 @@
         },
         {
           "aptId": 4,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 5,
@@ -277,19 +330,19 @@
         },
         {
           "aptId": 6,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 7,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 8,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 9,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 10,
@@ -301,7 +354,7 @@
         },
         {
           "aptId": 12,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 13,
@@ -309,7 +362,7 @@
         },
         {
           "aptId": 14,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 15,
@@ -317,11 +370,11 @@
         },
         {
           "aptId": 16,
-          "status": "odenmedi"
+          "status": "iban"
         },
         {
           "aptId": 17,
-          "status": "odenmedi"
+          "status": "iban"
         }
       ]
     },
